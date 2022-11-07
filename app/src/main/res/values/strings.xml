@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="title">Currency Converter</string>
+    <string name="setCurrencyTitle">Set currency</string>
+    <string name="resultPlaceholder">from - to</string>
+    <string name="resultString" translatable="false">%1$.2f %2$s - %3$.2f %4$s</string>
+    <string name="convertButton">Convert</string>
+    <string name="currencyInputPlaceholder">Enter amount</string>
+    <string name="setCurrenciesButton">Set currencies</string>
+    <string name="exchangeRatesPlaceholder">Please select currencies from \"Set currencies\"</string>
+    <string name="exchangeRatesString" translatable="false">1 %1$s = %2$.2f %3$s</string>
+    <string name="baseCurrencyDropdown">Base currency</string>
+    <string name="targetCurrencyDropdown">Target currency</string>
+    <string name="fetchRate">Fetch rate</string>
+    <string name="back">Back</string>
+    <string name="enterAmountToast">Please enter the amount to convert.</string>
+    <string name="fetchFailedToast">Failed to fetch exchange rate.</string>
+    <string name="parseFailedToast">Failed to parse exchange rate.</string>
+    <string name="baseCurrencySpinnerSpeakable">Base currency</string>
+    <string name="targetCurrencySpinnerSpeakable">Target currency</string>
+    <string-array name="currencySymbols">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HUF</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>NOK</item>
+        <item>SEK</item>
+        <item>USD</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valuuttamuunnin</string>
+    <string name="title">Valuuttamuunnin</string>
+    <string name="setCurrencyTitle">Aseta valuutta</string>
+    <string name="resultPlaceholder">mistä - mihin</string>
+    <string name="convertButton">Muunna</string>
+    <string name="currencyInputPlaceholder">Syötä summa</string>
+    <string name="setCurrenciesButton">Aseta valuutat</string>
+    <string name="exchangeRatesPlaceholder">Valitse valuutat painikkeesta \"Aseta valuutat\"</string>
+    <string name="baseCurrencyDropdown">Lähdevaluutta</string>
+    <string name="targetCurrencyDropdown">Kohdevaluutta</string>
+    <string name="fetchRate">Hae kurssi</string>
+    <string name="back">Takaisin</string>
+    <string name="enterAmountToast">Syötä muunnettava määrä.</string>
+    <string name="fetchFailedToast">Valuuttakurssin haku epäonnistui.</string>
+    <string name="parseFailedToast">Valuuttakurssin luku epäonnistui.</string>
+    <string name="baseCurrencySpinnerSpeakable">Lähdevaluutta</string>
+    <string name="targetCurrencySpinnerSpeakable">Kohdevaluutta</string>
+</resources>
